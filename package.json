@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/crusadergo/quark-chain-ico-platform/issues"
   },
-  "homepage": "https://github.com/crusadergo/quark-chain-ico-platform#readme"
+  "homepage": "https://github.com/crusadergo/quark-chain-ico-platform#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
 }
